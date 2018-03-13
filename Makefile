@@ -17,7 +17,7 @@ INCLUDEDIR=/usr/include/
 LIBDIR=/usr/lib
 
 # If you have more source files add them here 
-SOURCE= robot.cpp include/InitShader.cpp
+SOURCE= myrobot.cpp include/InitShader.cpp
 
 # The compiler we are using 
 CC= g++
